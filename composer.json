@@ -3,6 +3,7 @@
     "type": "library",
     "description": "PHP Payment Gateway Integration Package",
     "keywords": [
+	"manian",
         "shetabit",
         "gateway",
         "bank",
